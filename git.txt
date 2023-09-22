@@ -1,0 +1,28 @@
+git clone <>
+git status
+git commit -a/m "....." - "..description.."
+git push <> 
+git pull <>
+ssh-keygen -t rsa -b 4096 -C ""email@example.com"
+git@github.com:sowmyadn-source/demo.git
+ls grep | 
+git branch
+git checkout -b feature-readme-instructions
+git checkout <>
+git diff feature-readme-instructions
+git merge feature-readme-instructions
+git push -u origin feature-readme-instructions
+git branch -d feature-readme-instructions
+git diff
+
+
+undo 
+git reset /<>
+git reset HEAD~1
+git log
+git reset <with git code which is been created>
+git reset --hard <with git code which is been created>
+
+forking in to our repo
+merging will mirror the changes maded in our file in main repo
+and pr
